@@ -1,8 +1,3 @@
-/*
- * Author:      William Chia-Wei Cheng (bill.cheng@acm.org)
- *
- * @(#)$Id: listtest.c,v 1.1 2013/08/22 04:14:30 william Exp $
- */
 
 #include <stdio.h>
 #include <string.h>
